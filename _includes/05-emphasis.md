@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Test String 1*   
+**Test String 2**   
+**_Test_** __*String*__ 3
